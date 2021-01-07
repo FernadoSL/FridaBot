@@ -1,0 +1,22 @@
+o q vai fazer:
+fazer uma reserva (checkin e checkout) - extender diárias - reservar perifericos do hotel (academia - salão - piscina - eventos) -
+listagem resturantes recomendados na região - listagem pontos turisticos na região - listagem de promoções na região
+
+features:
+agendar no google calendar do usuário - mandar email - sms - gerar qr code para reserva - chatbot de conversação - pagina de hospedagem chatbot
+api's do google - google maps - google calendar - tela de cadastro de promoções
+
+chatbot de conversação
+nome
+fluxos de conversa (reservas, listagens)
+
+apis
+api de integração do dialogflow (nossa)
+fazer via postman chamadas nas api do google (maps, calendar)
+
+banco de dados
+tabela de promoções
+tabela de usuários
+
+
+retorno api do maps
