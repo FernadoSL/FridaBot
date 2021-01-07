@@ -1,0 +1,36 @@
+{
+    "candidates": [
+        {
+            "formatted_address": "R. Barata Ribeiro, 544 - Copacabana, Rio de Janeiro - RJ, 22040-002, Brasil",
+            "geometry": {
+                "location": {
+                    "lat": -22.9706497,
+                    "lng": -43.1889954
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.96938637010728,
+                        "lng": -43.18755302010727
+                    },
+                    "southwest": {
+                        "lat": -22.97208602989272,
+                        "lng": -43.19025267989272
+                    }
+                }
+            },
+            "name": "Hotel Atlântico Travel Copacabana",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102032222699251068749\">Marli Aguiar</a>"
+                    ],
+                    "photo_reference": "ATtYBwIWKaCwRJHhfr_Yq-WGVb8b4dvp7iBp_yR5u6mL_Uh3dhaqOFXJw70oTqhZxz5736ChDw43QbRLubpwucLMsjSNmGQNBDPBmXA5Mps4Z_avj2FwtLyeQENOsPVQemYayZSX0B9XNKDGaFms8SnBnqj9hWGEIE_1QetK-R1TeMfif2NS",
+                    "width": 4032
+                }
+            ],
+            "rating": 4.1
+        }
+    ],
+    "status": "OK"
+}
