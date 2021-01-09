@@ -21,7 +21,7 @@ app.post('/webhook', (request, response) => {
     var intentName = data.queryResult.intent.displayName;
     console.log(intentName);
 
-    var localDigitado = data.queryResult.parameters.location.city;
+    var localDigitado = data.queryResult.parameters.place-attraction;
     console.log(localDigitado);
 
     mapsService.getPesquisaLocal(localDigitado,response);
