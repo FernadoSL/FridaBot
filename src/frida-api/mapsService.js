@@ -12,7 +12,7 @@ export default class MapsService{
             var listaLocais = "";
             var index;
             for (index = 0; index < local.length; index++) {
-                listaLocais += local[index].name;
+                listaLocais += local[index].name + ", ";
                 
                 var idLocal = "Nome do Lugar: " + listaLocais;
             }

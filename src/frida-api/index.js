@@ -21,11 +21,10 @@ app.post('/webhook', (request, response) => {
     var intentName = data.queryResult.intent.displayName;
     console.log(intentName);
 
-    var localDigitado = data.queryResult.parameters.place-attraction;
+    var localDigitado = data.queryResult.queryText;
     console.log(localDigitado);
 
     mapsService.getPesquisaLocal(localDigitado,response);
-    
 })
 
 app.listen(process.env.PORT || 4200);
