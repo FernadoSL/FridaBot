@@ -1,0 +1,914 @@
+URL: https://maps.googleapis.com/maps/api/place/textsearch/json?location=-30.023438091227717,-51.20140318463954&radius=1500&query=pontos turisticos&key=COLOCAR_APIKey_AQUI
+
+JSON: 
+
+{
+    "html_attributions": [],
+    "next_page_token": "ATtYBwJ_xan6H-DQQnbV1haC71Kf0h7eSFwVH2LhplmyjLJFE3j3gnhSDcl8w5a48UxNJy0PQiw1srK16uvropPs8gF6N_BYARAG3sK5fWTNXuJH4ihasfAs9JyvaTguwDiTSY7WThTdpnXpbgViG2CRdI1r4SQKPl0xH7EzQLwKYY0YMdHfffz4pqbipwiYZxqThp949c88tNbw93nJ6ot7_n0Iz7bK2-VNZCMKUtm5lXtIkzw2XSBhznOW9Sr9PM81wU6ZHvp8iFaz7BRr_1OoSrAAabePxAjxD0idNDearpU5JgAFM2es-0rGzMJNfvFTqRdI364OGrjrtRkq7DNM4ooJYwxLjyed6irBEra-4DkiWZXP9GFGTOmG7lvtUx3hb_A5wTHc04hqnKPQ4OYGq8Kxid1yhXsdjO01xHRY7GeaorxOog2QyU761ZuWyIeCMjHenzGZT78f",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "R. Comendador Caminha, s/n - Moinhos de Vento, Porto Alegre - RS, 90430-030, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.027128,
+                    "lng": -51.2007469
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.02545147010728,
+                        "lng": -51.19972582010728
+                    },
+                    "southwest": {
+                        "lat": -30.02815112989272,
+                        "lng": -51.20242547989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Moinhos de Vento Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111526999639930592137\">fabio Bellotti</a>"
+                    ],
+                    "photo_reference": "ATtYBwIQhnxDa65WYq55QUvxqMwDwdfwxp5otAVoJ-rlTneKXoHOVD_PwZl2XRIykFrfuIZKD7_YY4oXbTpJQ-M0yYqZb-Sx8Uli9AoyNchD1kDlGwtOolZ540_7IgGflSBSiI3uuv1-m4Sj3_RWZlaZwm4sDyVuYQWlpHy6rdOxPyo1Blky",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJe5gScbV5GZURsKJKAJyw9E0",
+            "plus_code": {
+                "compound_code": "XQFX+4P Moinhos de Vento, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXQFX+4P"
+            },
+            "rating": 4.6,
+            "reference": "ChIJe5gScbV5GZURsKJKAJyw9E0",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19819
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. João Pessoa, s / nº - Farroupilha, Porto Alegre - RS, 90010-150, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.0366563,
+                    "lng": -51.2161226
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.03530647010728,
+                        "lng": -51.21477277010727
+                    },
+                    "southwest": {
+                        "lat": -30.03800612989272,
+                        "lng": -51.21747242989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "name": "Farroupilha Park (Redenção)",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118339881616083274158\">jhetro osuna</a>"
+                    ],
+                    "photo_reference": "ATtYBwIc2zt-Wd3bXjUgOCz3y4h19-lxgFlP5hwIopls9HD6aNtndvHeEvbqD20ogTfPS0Pc1JZcxYoOknWc7RrWzelGETZr9pt0-dN8SUMK4vT3lPAWKQHIklAkx6u3M5Bu4UUFqTW9W-N459HeCZb5rx0ERgZ6LVzA9OpuA4XZ58RDyZNG",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJLRV5SFN4GZURW_iaGl4vUqk",
+            "plus_code": {
+                "compound_code": "XQ7M+8H Farroupilha, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXQ7M+8H"
+            },
+            "rating": 4.5,
+            "reference": "ChIJLRV5SFN4GZURW_iaGl4vUqk",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38648
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Rua 24 de Maio - Centro Histórico, Porto Alegre - RS, 90050-180, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.03344719999999,
+                    "lng": -51.2253468
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.03192767010728,
+                        "lng": -51.22418097010728
+                    },
+                    "southwest": {
+                        "lat": -30.03462732989273,
+                        "lng": -51.22688062989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Staircase May 24",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114024779667987914725\">Emilio F. Marbán Trovato</a>"
+                    ],
+                    "photo_reference": "ATtYBwLWiBLdu66pg-8j5ZqOtCpXapS24JXrLy3en0IKGTqhSj-JszzlW4H9HZgAIgTsKNJeoe2CikddNSahLDqIeMReQHWMfftEXb0EYSgGsXtkL2Wf74ZE4WRohsKvjt5QofFDA1iOsulpHbU6C2-8jRCHPXX3zbR4pbT3XoEfYZjJ3C3t",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJh-dtkwZ5GZUR-C-ezOrmNyI",
+            "plus_code": {
+                "compound_code": "XQ8F+JV Historical Centre, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXQ8F+JV"
+            },
+            "rating": 4.4,
+            "reference": "ChIJh-dtkwZ5GZUR-C-ezOrmNyI",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 490
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "R. da Conceição, 389 - Centro Histórico, Porto Alegre - RS, 90030-030, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.0275028,
+                    "lng": -51.2197596
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.02615292010728,
+                        "lng": -51.21840362010729
+                    },
+                    "southwest": {
+                        "lat": -30.02885257989272,
+                        "lng": -51.22110327989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Porto Alegre Tourism",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114348720848202767987\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATtYBwLWiHm7M147cRGuA-dqStcvEM74CKbs28UTSetRgfNwoIluqXooc9fMsD87zg4QZpysjnTgV5XtL8ugNrjzh6Qb53WogGKZ6zvtbORfszDJmal5fmpjIvkUhrWSntnkGeFWxoSu_MiqKXk8tt1Cl9WWQVnut4ZOHsODlw91eB73rE0M",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJW0dPwqd5GZURgVBNYq2_ik8",
+            "plus_code": {
+                "compound_code": "XQCJ+X3 Porto Alegre, State of Rio Grande do Sul",
+                "global_code": "48XCXQCJ+X3"
+            },
+            "rating": 4.2,
+            "reference": "ChIJW0dPwqd5GZURgVBNYq2_ik8",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "R. Riachuelo, 871 - Centro Histórico, Porto Alegre - RS, 90010-270, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.0323528,
+                    "lng": -51.2330845
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.03101032010728,
+                        "lng": -51.23173177010728
+                    },
+                    "southwest": {
+                        "lat": -30.03370997989272,
+                        "lng": -51.23443142989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Centro Histórico de Porto Alegre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106479838632593647649\">Peter Rutz</a>"
+                    ],
+                    "photo_reference": "ATtYBwIVdyXAHFF0cD0Q1bTs3lM8-6_I_MkXwoedEfkLhtT2G_FcHNcs5p_MTNjyFnxRhGF0ZnVIuUoybjSVFDvRKC2HIf48ZzGLpc_PQ0zPOKh3YSEgRlfT2FsQBaB6ROlmq4fMOGzmox5hQJ4tY9k2nM4ITqcStqnD_YO44BFlhdKZ2K9d",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJj_Hptul5GZURXb6I9AFJoPk",
+            "plus_code": {
+                "compound_code": "XQ98+3Q Historical Centre, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXQ98+3Q"
+            },
+            "rating": 4.5,
+            "reference": "ChIJj_Hptul5GZURXb6I9AFJoPk",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Loureiro da Silva, 1155 - Cidade Baixa, Porto Alegre - RS, 90110-340, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.0390301,
+                    "lng": -51.229553
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.03749417010728,
+                        "lng": -51.22805097010728
+                    },
+                    "southwest": {
+                        "lat": -30.04019382989272,
+                        "lng": -51.23075062989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Monument To Açorianos",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108132148853811239715\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATtYBwLC9EKsjsqhhzFm157JUHvVQ-zGMeBkMRvEFqt716LkPoz1R-CKqPJZeNc1B8_i3ABBtiOxj2L0yIKJ2juC8qAHfee2aozR0chmVp4WGEwDrzhKcGEtRgrbZLmua3Oaw_efGT2SX3Z0IPj6QmvgfxcMWQWe8u4j3KFuLgJKeG53w8oV",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJ_WXJ_QJ5GZURvtRB0sdIy6Q",
+            "plus_code": {
+                "compound_code": "XQ6C+95 Cidade Baixa, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXQ6C+95"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ_WXJ_QJ5GZURvtRB0sdIy6Q",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1834
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Pres. João Goulart, 551 - Centro Histórico, Porto Alegre - RS, 90010-120, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.0341319,
+                    "lng": -51.241082
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.03264747010728,
+                        "lng": -51.23937797010728
+                    },
+                    "southwest": {
+                        "lat": -30.03534712989273,
+                        "lng": -51.24207762989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Usina do Gasômetro",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103413414837741716953\">Rogerio Ribeiro</a>"
+                    ],
+                    "photo_reference": "ATtYBwImM9gVajupQn0NOVTC3aVJjdH0-_826qrdS5IDr8cGFQYOgQqv_I3X4LnoyDbLn3rFc4xHhD0JRMq5NNoEPIXYR86BQt3VtzaEJ_5_rK7blAEzlgQH4UlXf4s7BtiJWlBdgvroI6XPdgOMIVy2LyEk4UZrk6yV0z82tb4JDKndiHHN",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJTdwE6xZ5GZURrW73RJe1VjI",
+            "plus_code": {
+                "compound_code": "XQ85+8H Historical Centre, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXQ85+8H"
+            },
+            "rating": 4.7,
+            "reference": "ChIJTdwE6xZ5GZURrW73RJe1VjI",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23526
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. dos Estados, 1175 - São João, Porto Alegre - RS, 90200-320, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -29.9913449,
+                    "lng": -51.1844599
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -29.99005747010728,
+                        "lng": -51.18301452010729
+                    },
+                    "southwest": {
+                        "lat": -29.99275712989272,
+                        "lng": -51.18571417989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Monument to Laçador",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107400455389078203492\">Norton Gomes</a>"
+                    ],
+                    "photo_reference": "ATtYBwJ3xdwHzB5_8nhsioMob3QNy0BZ4DEOFoRB4_wodAo6pGSQNgdGKSVPotTUlOjcf1iTwgO7GCMvtOPMRe8P1-gCrOSqszCh5rEgBbkLp3ulWkdLQABRtlSJlm7mqR7tAfYqq80ftUyOHM9Fb4KAkLtogyxTUbuyc0X0z3VX4RaASSH8",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJiyBEqv55GZURk4Q4C7wXe7Q",
+            "plus_code": {
+                "compound_code": "2R58+F6 São João, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "582C2R58+F6"
+            },
+            "rating": 4.6,
+            "reference": "ChIJiyBEqv55GZURk4Q4C7wXe7Q",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 827
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Plínio Brasil Milano, 500 - Loja B - Higienópolis, Porto Alegre - RS, 90520-000, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.021819,
+                    "lng": -51.18629139999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.02049837010728,
+                        "lng": -51.18494052010728
+                    },
+                    "southwest": {
+                        "lat": -30.02319802989272,
+                        "lng": -51.18764017989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Agency Travel Plan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2620,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103392163081740999764\">AGÊNCIA PLANO DE VIAGEM</a>"
+                    ],
+                    "photo_reference": "ATtYBwIti-mLycgKN_JaXrfp4jaFcnZMDl0D1uP6o7-e4YP1SeXiFD1HtmQOq9NSootkDhBjsZO2rYUpnns4QN5RnhdA9BbflB6Dn8qUr5I_ZvVw8RHcsXF68xwQqyNVe5e9gBFLR0SduRxnP0SM0KTbgM-90YE9tFygi5gjqQ7x9REd9WGg",
+                    "width": 2524
+                }
+            ],
+            "place_id": "ChIJUWx73NN5GZURGKzziZv-4jc",
+            "plus_code": {
+                "compound_code": "XRH7+7F Higienópolis, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXRH7+7F"
+            },
+            "rating": 4.9,
+            "reference": "ChIJUWx73NN5GZURGKzziZv-4jc",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Rua Dr. Vale, 553 - Moinhos de Vento, Porto Alegre - RS, 90560-010, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.0268822,
+                    "lng": -51.206762
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.02547647010728,
+                        "lng": -51.20524352010727
+                    },
+                    "southwest": {
+                        "lat": -30.02817612989272,
+                        "lng": -51.20794317989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Top Travelling Viagens e Turismo",
+            "place_id": "ChIJ7YibXLh5GZUR4IFz_EHCeP4",
+            "plus_code": {
+                "compound_code": "XQFV+67 Moinhos de Vento, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXQFV+67"
+            },
+            "rating": 0,
+            "reference": "ChIJ7YibXLh5GZUR4IFz_EHCeP4",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Rua Florencio Ygartua, /708 288/708, R. Dr. Florêncio Ygartua, 288 - Moinhos de Vento, Porto Alegre - RS, 90430-010, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.0290509,
+                    "lng": -51.20289510000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.02770377010728,
+                        "lng": -51.20159672010728
+                    },
+                    "southwest": {
+                        "lat": -30.03040342989272,
+                        "lng": -51.20429637989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Zaffari Turismo Ltda.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112551311133268261119\">Zaffari Turismo Ltda.</a>"
+                    ],
+                    "photo_reference": "ATtYBwJxclKEf55PZCKQxJrWLEcV3rR2DufLfsFCuj4mGXkn83o64nE74cwQTi3hzQAVmtJew8xugkP2EQmJKZeWy-F8K_7f7OWZDQ6mcM54WFGuJINgm1OY9yDQvxW7hv3f4yIGRy1U_bfMF8K2DSzJtPQc_HzT1kifGTuRBBnruSisPJGk",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJoWu4SrR5GZUR8hWuMzA3Gdk",
+            "plus_code": {
+                "compound_code": "XQCW+9R Moinhos de Vento, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXQCW+9R"
+            },
+            "rating": 4.6,
+            "reference": "ChIJoWu4SrR5GZUR8hWuMzA3Gdk",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Cristóvão Colombo, 2149 - Floresta, Porto Alegre - RS, 90560-000, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.01815359999999,
+                    "lng": -51.1987884
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.01674427010727,
+                        "lng": -51.19744217010727
+                    },
+                    "southwest": {
+                        "lat": -30.01944392989272,
+                        "lng": -51.20014182989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ZG VIAGENS TURISMO E LAZER LTDA",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJO3KeDsd5GZURWxvFqxlQfvU",
+            "plus_code": {
+                "compound_code": "XRJ2+PF Floresta, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXRJ2+PF"
+            },
+            "rating": 0,
+            "reference": "ChIJO3KeDsd5GZURWxvFqxlQfvU",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Condomínio Edifício Columbia - apto 23, R. Félix da Cunha, 853 - Floresta, Porto Alegre - RS, 90570-001, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.0205118,
+                    "lng": -51.2022985
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.01915172010727,
+                        "lng": -51.20086157010727
+                    },
+                    "southwest": {
+                        "lat": -30.02185137989272,
+                        "lng": -51.20356122989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Viaje Com Milhas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 445,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112363302767905196904\">Viaje com milhas</a>"
+                    ],
+                    "photo_reference": "ATtYBwJ0_b4D64Nk_MmVtSqM9ukbypv8a9fG4BUXTeG_K5nWlFr49E4HfjfzTAhuTVlZAcrhu4Q12_JUIJqjxY5vRrA_m0yxp3b-1yxODe20T6kk7aqRZqXS0G9jpJx2wRdK0gvvlR928K20JY-_WpVowxdqfL0s3D5qc6seLQjO8GJyd0W1",
+                    "width": 662
+                }
+            ],
+            "place_id": "ChIJNxjGRbh5GZUR2qzSOymD_Y8",
+            "plus_code": {
+                "compound_code": "XQHX+Q3 Floresta, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXQHX+Q3"
+            },
+            "rating": 1,
+            "reference": "ChIJNxjGRbh5GZUR2qzSOymD_Y8",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "R. Padre Chagas, 270 - Moinhos de Vento, Porto Alegre - RS, 90570-080, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.0246085,
+                    "lng": -51.20308139999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.02329842010728,
+                        "lng": -51.20168837010728
+                    },
+                    "southwest": {
+                        "lat": -30.02599807989272,
+                        "lng": -51.20438802989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Super Milhas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJUbM3fsd5GZURGmjHVk-Pits",
+            "plus_code": {
+                "compound_code": "XQGW+5Q Moinhos de Vento, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXQGW+5Q"
+            },
+            "rating": 0,
+            "reference": "ChIJUbM3fsd5GZURGmjHVk-Pits",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Centro Profissional Meyer, conjunto 403, Rua Francisco Ferrer, 453 - Rio Branco, Porto Alegre - RS, 90420-140, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.0363561,
+                    "lng": -51.2074649
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.03500567010728,
+                        "lng": -51.20602232010728
+                    },
+                    "southwest": {
+                        "lat": -30.03770532989272,
+                        "lng": -51.20872197989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Prisma Viagens",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJB2hpWUx4GZURyHiRRQ8A5QU",
+            "plus_code": {
+                "compound_code": "XQ7V+F2 Rio Branco, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXQ7V+F2"
+            },
+            "rating": 0,
+            "reference": "ChIJB2hpWUx4GZURyHiRRQ8A5QU",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Condominio Edifício Baltimore Office - Av. Osvaldo Aranha, 1022 - Sala 610 - Bom Fim, Porto Alegre - RS, 90035-191, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.0345365,
+                    "lng": -51.2120054
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.03340247010729,
+                        "lng": -51.21079752010726
+                    },
+                    "southwest": {
+                        "lat": -30.03610212989273,
+                        "lng": -51.21349717989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hello Study - Porto Alegre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2016,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102566051181622889926\">Hello Study</a>"
+                    ],
+                    "photo_reference": "ATtYBwKaVZXbZpiW-RD-wYrzgzo7Hrxe0ses4wsXfs4lj8P5EXWtgQ7XQeqTDTRfuzFBTVsgFgNa91jA7-QZy6MM3kew7Wo2bcgkN1mc5H528YvZq7c7BfYRg5eyc0KJMoQ-Og-OmBq3HpkdeBp_IwleheTikwHRwxZUeB0CzApLKNBcWQ7S",
+                    "width": 3584
+                }
+            ],
+            "place_id": "ChIJB_oQNq15GZUR25iKm2K5QO4",
+            "plus_code": {
+                "compound_code": "XQ8Q+55 Bom Fim, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXQ8Q+55"
+            },
+            "rating": 4.2,
+            "reference": "ChIJB_oQNq15GZUR25iKm2K5QO4",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Galeria, Loja 11, Av. Goethe, 38 - Rio Branco, Porto Alegre - RS, 90430-100, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.0300383,
+                    "lng": -51.2011731
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.02860552010728,
+                        "lng": -51.19994077010728
+                    },
+                    "southwest": {
+                        "lat": -30.03130517989272,
+                        "lng": -51.20264042989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Pack'n Go Viagens e Turismo Ltda",
+            "place_id": "ChIJFfSAcLV5GZURq4f-cCV5Qmc",
+            "plus_code": {
+                "compound_code": "XQ9X+XG Rio Branco, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXQ9X+XG"
+            },
+            "rating": 0,
+            "reference": "ChIJFfSAcLV5GZURq4f-cCV5Qmc",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. João Pessoa, 1453 - Farroupilha, Porto Alegre - RS, 90040-001, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.04377839999999,
+                    "lng": -51.2146065
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.04241352010728,
+                        "lng": -51.21322582010728
+                    },
+                    "southwest": {
+                        "lat": -30.04511317989272,
+                        "lng": -51.21592547989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Monumento a Bento Gonçalves",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109421138303328339802\">Carlos Eduardo Fattore</a>"
+                    ],
+                    "photo_reference": "ATtYBwJkVCh1vy71WoGuQMXWzJsX-waVWrCacIbTMp2Rzsn0GLNxWRR6GtlsGwVLbaC1cbnI5FrOnatKtzzsqMO5OV5bxrYLNOE2gqKADSlvipFqg1cNQ5nUsI5towt3teCfrIyLiC1A-rBENHCilQ--xYZLKtyT1bShXMeR2OgWObTho3FP",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJl3Hd8VB4GZUR3AVXQq9vqYA",
+            "plus_code": {
+                "compound_code": "XQ4P+F5 Farroupilha, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXQ4P+F5"
+            },
+            "rating": 4.5,
+            "reference": "ChIJl3Hd8VB4GZUR3AVXQq9vqYA",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Prof. Oscar Pereira, 1697 - Glória, Porto Alegre - RS, 90660-080, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.065103,
+                    "lng": -51.2062092
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.06374242010727,
+                        "lng": -51.20476892010727
+                    },
+                    "southwest": {
+                        "lat": -30.06644207989272,
+                        "lng": -51.20746857989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Turismo na Serra Gaúcha",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100827979583574534877\">Andreia Silveira Freire</a>"
+                    ],
+                    "photo_reference": "ATtYBwLYSIpImixPG0YZbZW6I0m82m4x9jx5t_iIlDqKq6VmiVl1rmEKOGvY8yS1LeNsZO5KGmc4mwcxvvJqAQCL4ZFoqGtZ6MaUXK0MmzZohXLEo4rnnf4nAA3kqF5-lbRhFb9C-eTFMpkQK1FBO7UhLfTT5KW68xJGxVj-NzkyANdcfcx1",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJ3___P3R4GZURNXMW_yrdNXY",
+            "plus_code": {
+                "compound_code": "WQMV+XG Glória, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCWQMV+XG"
+            },
+            "rating": 5,
+            "reference": "ChIJ3___P3R4GZURNXMW_yrdNXY",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "R. Gen. Câmara, 381 - Centro Histórico, Porto Alegre - RS, 90010-230, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -30.0307087,
+                    "lng": -51.2303218
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -30.02936597010728,
+                        "lng": -51.22881752010728
+                    },
+                    "southwest": {
+                        "lat": -30.03206562989272,
+                        "lng": -51.23151717989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MD11 Travel and Tourism",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 541,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117224816477134223028\">MD11 Viagens e Turismo</a>"
+                    ],
+                    "photo_reference": "ATtYBwJSePBmo59AO_iVhlB7cUv7akInVYTtaC_fUkGbDi5wZZdyc_DUN4G5wBc5wkX0AUX3fUnuhYSXlcSwWZPEHtXSGk6bd5f3T9Yrd2iR9xLP6k-a9IjiXKE4WFNYs1SPu0Gy6vytIFrjwu7W1BwNr1eDKVBT6vad8CgQJxktqKg4rVvO",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJTZqvMCJ4GZURgBtundvSYwo",
+            "plus_code": {
+                "compound_code": "XQ99+PV Historical Centre, Porto Alegre - State of Rio Grande do Sul",
+                "global_code": "48XCXQ99+PV"
+            },
+            "rating": 4,
+            "reference": "ChIJTZqvMCJ4GZURgBtundvSYwo",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        }
+    ],
+    "status": "OK"
+}
