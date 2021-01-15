@@ -3,7 +3,8 @@ import axios from 'axios';
 export default class MapsService{
 
     getPesquisaLocal(localDigitado, responseDialogflow) {
-        axios.get("https://maps.googleapis.com/maps/api/place/textsearch/json?location=-30.023438091227717,-51.20140318463954&radius=1500&query=" + localDigitado + "&key=COLOCAR_APIKey_AQUI").then((response) => {
+        var apiKey = process.env.API_KEY;
+        axios.get("https://maps.googleapis.com/maps/api/place/textsearch/json?location=-30.023438091227717,-51.20140318463954&radius=1500&query=" + localDigitado + "&key=" + apiKey).then((response) => {
     
             var listaLugares = response.data;
 
@@ -24,6 +25,5 @@ export default class MapsService{
     
             responseDialogflow.json(responseData);
         })
-    
     }
 }

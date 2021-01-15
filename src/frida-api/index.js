@@ -1,11 +1,13 @@
 import json from 'body-parser';
 import express, { response } from 'express';
 import MapsService from "./mapsService.js";
+import dotenv from 'dotenv'
 
 var mapsService = new MapsService();
 
 const app = express();
 app.use(json());
+dotenv.config();
 
 // linha de código para saber se o método get está funcionando
 app.get('/status', (request, response) => {
