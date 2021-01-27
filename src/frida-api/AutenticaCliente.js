@@ -1,29 +1,7 @@
-/*
- * @license
- * Copyright Google Inc.
- *
- * Licenciado sob a Licença Apache, Versão 2.0 (a "Licença");
- * você não pode usar este arquivo, exceto em conformidade com a Licença.
- * Você pode obter uma cópia da Licença em
- *
- *     https://www.apache.org/licenses/LICENSE-2.0
- *
- * A menos que exigido pela lei aplicável ou acordado por escrito, software
- * distribuído sob a Licença é distribuído "COMO ESTÁ",
- * SEM GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, expressas ou implícitas.
- * Consulte a Licença para as permissões específicas que regem o idioma e
- * limitações sob a Licença.
- */
 
-//  [START calendar_quickstart]
-//import fs from 'fs';
-//import readline from 'readline';
-//import google from 'google';
-
-const fs = require('fs');
-const readline = require('readline');
-const {google} = require('googleapis');
-
+import fs from 'fs';
+import readline from 'readline';
+import {google} from 'googleapis';
 
 // Se modificar esses escopos, delete token.json.
 const SCOPES = ['https://www.googleapis.com/auth/calendar.readonly'];
@@ -36,17 +14,19 @@ const TOKEN_PATH = 'token.json';
 fs.readFile('credentials.json', (err, content) => {
   if (err) return console.log('Erro ao carregar o arquivo secreto do cliente:', err);
   // Autorize um cliente com credenciais e chame a API do Google Agenda.
-  authorize(JSON.parse(content), listEvents);
+  var teste = JSON.parse(content)
+  console.log(teste);
+  authorize(teste,listEvents);
 });
 
-/**
+/*
  * Crie um cliente OAuth2 com as credenciais fornecidas e execute a
  * função de callback fornecida.
  * @param {Object} credentials As credenciais do cliente de autorização.
  * @param {function} callback O retorno de chamada para chamar com o cliente autorizado.
  */
 function authorize(credentials, callback) {
-  const {client_secret, client_id, redirect_uris} = credentials.installed;
+  const {client_secret, client_id, redirect_uris} = credentials.web;
   const oAuth2Client = new google.auth.OAuth2(
       client_id, client_secret, redirect_uris[0]);
 
@@ -58,7 +38,7 @@ function authorize(credentials, callback) {
   });
 }
 
-/**
+/*
  * Obtenha e armazene o novo token após solicitar a autorização do usuário e, em seguida,
  * execute o retorno de chamada fornecido com o cliente OAuth2 autorizado.
  * @param {google.auth.OAuth2} oAuth2Client O cliente OAuth2 para o qual obter o token.
@@ -115,9 +95,3 @@ function listEvents(auth) {
     }
   });
 }
-// [END calendar_quickstart]
-
-module.exports = {
-  SCOPES,
-  listEvents,
-};
