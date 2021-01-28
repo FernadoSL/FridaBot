@@ -1,11 +1,13 @@
 import json from 'body-parser';
 import express, { response } from 'express';
-import MapsService from "./mapsService.js";
 import dotenv from 'dotenv';
+import MapsService from "./mapsService.js";
 import getAccessToken from './autenticationService.js';
+import CalendarService from './calendarService'
 
 
 var mapsService = new MapsService();
+var calendarService = new CalendarService();
 
 const app = express();
 app.use(json());
