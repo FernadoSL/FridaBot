@@ -2,10 +2,10 @@ import json from 'body-parser';
 import express, { response } from 'express';
 import dotenv from 'dotenv';
 import MapsService from "./mapsService.js";
-import getAccessToken from './autenticationService.js';
+import AutenticaUsuario from './autenticationService.js';
 import CalendarService from './calendarService'
 
-
+var autenticaUsuario = new AutenticaUsuario();
 var mapsService = new MapsService();
 var calendarService = new CalendarService();
 
@@ -33,7 +33,7 @@ app.post('/webhook', (request, response) => {
     // TODO intent de reserva do local do hotel
     if (intentName == 'Intent-fazer-reserva-local-hotel'){
         
-        getAccessToken();
+        autenticaUsuario.readFile(response);
     }
     // TODO intent reserva de um quarto
     if(intentName == 'Intent-fazer-reserva-quarto'){
